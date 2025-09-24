@@ -1,15 +1,17 @@
-public class Reverse10 {
+package homework2_2;
+
+public class LongArray11 {
     public static void main(String[] args) {
-        int[] array = {1, 1, 0, 1, 1, 0, 0, 1, 1, 0};
-        reverse(array);
+        int[] array = new int[100];
+        fillArray(array);
         for (int num : array) {
             System.out.print(num + " ");
         }
     }
 
-    public static void reverse(int[] arr) {
+    public static void fillArray(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = arr[i] == 0 ? 1 : 0;
+            arr[i] = i + 1;
         }
     }
 }

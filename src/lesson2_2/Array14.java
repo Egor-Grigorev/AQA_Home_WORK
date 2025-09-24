@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class Array14 {
     public static void main(String[] args) {
         int[] result = initArray(9, 999);

@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class PrintThreeWords1 {
 
     public static void printThreeWords() {

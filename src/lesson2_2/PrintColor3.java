@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class PrintColor3 {
     public static void printColor () {
         int value = 100000;

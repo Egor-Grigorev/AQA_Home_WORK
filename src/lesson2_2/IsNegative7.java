@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class IsNegative7 {
     public static boolean isNegative(int value) {
         return value < 0;

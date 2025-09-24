@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class SquareArray13 {
     public static void main(String[] args) {
         createDiagonalMatrix(4);

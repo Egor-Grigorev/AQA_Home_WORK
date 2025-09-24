@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class CompareNumbers4 {
     public static void compareNumbers() {
         int a = 12;

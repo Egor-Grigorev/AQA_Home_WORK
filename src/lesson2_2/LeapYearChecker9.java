@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class LeapYearChecker9 {
     public static void main(String[] args) {
         int year = 2027;

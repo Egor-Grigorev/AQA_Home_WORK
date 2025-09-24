@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class CheckSumSign2 {
     public static void checkSumSign() {
         int a = 11;

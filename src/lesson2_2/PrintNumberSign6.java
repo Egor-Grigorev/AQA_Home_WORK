@@ -1,3 +1,5 @@
+package homework2_2;
+
 public class PrintNumberSign6 {
     public static void printNumberSign(int number) {
         if (number >= 0) {
