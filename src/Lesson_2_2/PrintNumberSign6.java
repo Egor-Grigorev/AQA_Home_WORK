@@ -1,4 +1,4 @@
-package homework2_2;
+package Lesson_2_2;
 
 public class PrintNumberSign6 {
     public static void printNumberSign(int number) {

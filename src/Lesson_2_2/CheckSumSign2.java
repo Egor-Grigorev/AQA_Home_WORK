@@ -1,4 +1,5 @@
-package homework2_2;
+package Lesson_2_2;
+
 
 public class CheckSumSign2 {
     public static void checkSumSign() {
