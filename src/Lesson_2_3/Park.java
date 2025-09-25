@@ -2,9 +2,9 @@ package Lesson_2_3;
 
 public class Park {
     public static class Information {
-        private String name;
-        private String workingHours;
-        private double price;
+        private final String name;
+        private final String workingHours;
+        private final double price;
         public Information (String name, String workingHours, double price) {
             this.name = name;
             this.workingHours = workingHours;
@@ -21,7 +21,7 @@ public class Park {
                     "8:00 - 20:00",
                     400
                     );
-            information.informationOutput();
+                    information.informationOutput();
         }
     }
 }
