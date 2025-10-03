@@ -1,6 +1,6 @@
 package Animal;
 
-//  Файл Bowl.java
+// Файл Bowl.java
 public class Bowl {
     private int food;
 
