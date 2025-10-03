@@ -41,6 +41,6 @@ public class Circle implements Shape {
 
     @Override
     public void printDetails() {
-        Shape.super.printDetails(); // Используем метод из интерфейса
+        Shape.super.printDetails(); //  Используем метод из интерфейса
     }
 }

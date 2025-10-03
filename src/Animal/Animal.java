@@ -1,6 +1,6 @@
 package Animal;
 
-// Класс "Животное"
+//  Класс "Животное"
 // Файл Animal.java
 public class Animal {
     private static int animalCount = 0;
