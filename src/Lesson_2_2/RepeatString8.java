@@ -1,4 +1,4 @@
-package Lesson_2_2;
+package homework2_2;
 
 public class RepeatString8 {
     public static void repeatString(String text, int count) {
