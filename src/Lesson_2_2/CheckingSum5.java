@@ -1,4 +1,4 @@
-package homework2_2;
+package Lesson_2_2;
 
 public class CheckingSum5 {
     public static boolean checkingSum(int a, int b) {
